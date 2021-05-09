@@ -28,3 +28,5 @@ elif IMC>=26 and IMC<31:
     print("Sobrepeso")
 else:
     print("Obesidad")  
+  
+print("Version 2 commit")
